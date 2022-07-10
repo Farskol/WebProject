@@ -1,0 +1,10 @@
+
+g
+java:S1128"JRemove this unused import 'com.finalwebproject.pastrtyshop.entity.Client'.(ÿÉœÀ8ûéê¯ö/
+p
+java:S1128"NRemove this unused import 'com.finalwebproject.pastrtyshop.entity.ClientRole'.(ç‘®Şıÿÿÿÿ8üéê¯ö/
+r
+java:S1128"PRemove this unused import 'com.finalwebproject.pastrtyshop.entity.ClientStatus'.(íƒá½ıÿÿÿÿ8üéê¯ö/
+—
+java:S1192"zDefine a constant instead of duplicating this literal "SELECT discounts_id, value, discount_name FROM discounts " 3 times.(¶ê¥Ã8ˆêê¯ö/
+s	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òã”Ìùÿÿÿÿ8‰êê¯ö/

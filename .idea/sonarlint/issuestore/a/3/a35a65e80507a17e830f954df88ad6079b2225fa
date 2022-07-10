@@ -1,0 +1,17 @@
+
+·
+java:S1192"”Define a constant instead of duplicating this literal "cakes.stuffings_stuffings_id, stuffings.stuffing, stuffings.description FROM cakes
+" 5 times.(ŸÆ×áüÿÿÿÿ8ó¶Óî/
+¯
+java:S1192"ŒDefine a constant instead of duplicating this literal "SELECT cakes.cakes_id, cakes.cost, cakes.design_description, cakes.weight, " 5 times.(òŒ…úÿÿÿÿ8ó¶Óî/
+s	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î…™îşÿÿÿÿ8ó¶Óî/
+r
+java:S2095«"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒìØ®ûÿÿÿÿ8†ô¶Óî/
+r
+java:S2095Ó"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(äÆ¸¹ıÿÿÿÿ8†ô¶Óî/
+m
+java:S2095—"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸ãò8†ô¶Óî/
+q
+java:S2095y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(°ÛÁøÿÿÿÿ8†ô¶Óî/
+r
+java:S2095¿"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(£ê¾ışÿÿÿÿ8†ô¶Óî/

@@ -1,0 +1,10 @@
+
+×
+java:S1192"»Define a constant instead of duplicating this literal " clients.second_name, clients.email, clients.phone_number, clients.status, clients.role, clients.discounts_discounts_id, " 10 times.(×É–¥ùÿÿÿÿ
+
+java:S1192"xDefine a constant instead of duplicating this literal "discounts.value, discounts.discount_name FROM clients
+" 10 times.(ØºĞ«
+
+java:S1192"ˆDefine a constant instead of duplicating this literal "SELECT clients.client_id, clients.login, password, clients.first_name," 10 times.(“ü¥	
+l	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¡ÒÃüÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÖ¥‰øÿÿÿÿ

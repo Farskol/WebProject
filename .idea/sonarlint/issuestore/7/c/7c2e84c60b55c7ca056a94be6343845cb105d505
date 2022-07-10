@@ -1,0 +1,17 @@
+
+i
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÊŸ¨ë
+™
+java:S1192"‚Define a constant instead of duplicating this literal "SELECT orders.orders_id, orders.order_date, orders.total_price, " 10 times.(‹ŽÄ¦
+ß
+java:S1192"ÃDefine a constant instead of duplicating this literal "orders.orders_status, orders.in_what_date, orders.first_name, orders.phone_number, orders.second_name, orders.clients_client_id, " 10 times.(‘ÞÑ²ýÿÿÿÿ
+¼
+java:S1192"¥Define a constant instead of duplicating this literal "clients.role, clients.discounts_discounts_id, discounts.value, discounts.discount_name FROM orders " 10 times.(Ê©ÑÊ
+›
+java:S1192"„Define a constant instead of duplicating this literal "LEFT JOIN clients ON orders.clients_client_id = clients.client_id " 10 times.(ôäÖ›
+Ø
+java:S1192"ÁDefine a constant instead of duplicating this literal "clients.login, clients.password, clients.first_name, clients.second_name, clients.email, clients.phone_number, clients.status, " 10 times.(±úš€
+f
+java:S2095Ý"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢œˆÛ
+e
+java:S2095Í"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÕÃÐ9

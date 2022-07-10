@@ -1,0 +1,8 @@
+
+Q
+java:S2864$"4Iterate over the "entrySet" instead of the "keySet".(ü‚‘«8ğëÒÁø/
+C	java:S131&""Add a default case to this switch.(İõô£ùÿÿÿÿ8ñëÒÁø/
+Š
+java:S1128"mRemove this unused import 'com.finalwebproject.pastrtyshop.controller.Parameters.EDIT_DISCOUNT_FORM_IS_NULL'.(¬–¤Ô8Ñÿ–Âø/
+m
+java:S1301&"KReplace this "switch" statement by "if" statements to increase readability.(İõô£ùÿÿÿÿ8Òÿ–Âø/

@@ -1,0 +1,11 @@
+
+P
+java:S11175";Rename "stuffing" which hides the field declared at line 6.(ù†‘^
+\
+java:S11269"AReplace this if-then-else statement by a single return statement.( ñß±üÿÿÿÿ
+2
+java:S1700"Rename field "stuffing"(¹£²«üÿÿÿÿ
+Z
+java:S22593"?A "NullPointerException" could be thrown; "o" is nullable here.(‹£ëÁùÿÿÿÿ
+S
+java:S25893"8Remove this expression which always evaluates to "false"(‹£ëÁùÿÿÿÿ

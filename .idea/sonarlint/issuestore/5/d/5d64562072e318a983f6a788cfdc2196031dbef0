@@ -1,0 +1,28 @@
+
+\
+java:S1068"ARemove this unused "DELETE_ORDER_DESSERT_BY_ORDER" private field.(Œ¹»»ıÿÿÿÿ
+¤
+java:S1192"ˆDefine a constant instead of duplicating this literal "cakes.design_description, cakes.weight, cakes.stuffings_stuffings_id, 
+" 6 times.(âÅÁÄÿÿÿÿÿ
+
+java:S1192"‡Define a constant instead of duplicating this literal "order_desserts.orders_orders_id, order_desserts.desserts_dessert_id, 
+" 6 times.(÷ÜªÌ
+ 
+java:S1192"„Define a constant instead of duplicating this literal "LEFT JOIN cakes ON order_desserts.cakes_cakes_id = cakes.cakes_id 
+" 6 times.(À«ôåşÿÿÿÿ
+ª
+java:S1192'"Define a constant instead of duplicating this literal "LEFT JOIN stuffings ON cakes.stuffings_stuffings_id = stuffings.stuffings_id " 5 times.(¢Øœüÿÿÿÿ
+¨
+java:S1192"‘Define a constant instead of duplicating this literal "LEFT JOIN desserts ON order_desserts.desserts_dessert_id = desserts.dessert_id 
+" 6 times.(æÑÈú
+Ÿ
+java:S1192"ˆDefine a constant instead of duplicating this literal "SELECT order_desserts.order_desserts_id, order_desserts.dessert_count, " 6 times.(ˆïÚ
+—
+java:S1192"€Define a constant instead of duplicating this literal "stuffings.stuffing, stuffings.description FROM order_desserts 
+" 6 times.(üı”
+Æ
+java:S1192"¯Define a constant instead of duplicating this literal "desserts.description, desserts.cost, desserts.name, desserts.type, order_desserts.cakes_cakes_id, cakes.cost, " 6 times.(Ô¥ó¾
+d
+java:S2095r"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÈçÔ
+e
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÈçÔ
